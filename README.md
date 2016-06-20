@@ -6,4 +6,5 @@ Allows students to make the leap from writing programs in a simple high-level la
 be translated and executed on a simple computer.
 
 Part of the code (gui) was written by Dr.Lander, my professor.
+Run Machine View to start.
 
