@@ -7,4 +7,4 @@ be translated and executed on a simple computer.
 
 Part of the code (gui) was written by Dr.Lander, my professor.
 Please run Machine View to start.
-
+![alt tag](https://github.com/pwatter1/pippin-machine-simulator/blob/master/MachineGUI.png)
