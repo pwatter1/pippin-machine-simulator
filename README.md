@@ -5,6 +5,7 @@ Compile and run assembly files written in a modified Pippin assembly language as
 Allows students to make the leap from writing programs in a simple high-level language to understanding how such programs come to 
 be translated and executed on a simple computer.
 
+Part of the GUI was written with my Professor, Dr.Lander.
 Please run Machine View to start and load a data file when prompted.
 
 ![alt tag](https://github.com/pwatter1/pippin-machine-simulator/blob/master/MachineGUI.png)
