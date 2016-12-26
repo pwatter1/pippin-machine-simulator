@@ -1075,6 +1075,5 @@ public class InstructionTester {
 		assertEquals("Program counter after for", 5, machine.getPC());
 	}
 	
-
 	// HALT is missing at this point
 }
