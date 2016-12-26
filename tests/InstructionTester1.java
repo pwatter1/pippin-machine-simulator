@@ -103,6 +103,7 @@ public class InstructionTester1 {
                 machine.getAccum());
 	}	
 	
+	
 	@Test
 	// Test whether store is correct with direct addressing
 	public void testSTO() {
